@@ -6,7 +6,7 @@ It uses the `keyboard` and `pynput` libraries to listen for key events and contr
 ---
 
 ## ✨ Features
-
+ 
 - Press **numpad . (decimal)** → triggers a right-click.
 - Runs silently in the background.
 - Press **Esc** → cleanly exits the script.
