@@ -77,9 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to open issues or submit pull requests for improvements!
 
-```
-
 ---
-
-If you want, I can also generate the actual **`LICENSE` file** or **GitHub Actions workflow** for Python linting or packaging. Want me to include those? Let me know! 🚀
-```
