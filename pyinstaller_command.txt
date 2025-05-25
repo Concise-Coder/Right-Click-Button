@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name RightClick --icon rclick.ico --version-file version.txt main.py
